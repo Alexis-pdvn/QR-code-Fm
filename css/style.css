@@ -42,6 +42,7 @@ body{
 .card h1{
     font-size: 22px;
     font-weight: 700;
+    color: var(--darkblue);
 }
 .card p{
     font-size: 15px;
